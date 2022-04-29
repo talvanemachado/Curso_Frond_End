@@ -1,0 +1,68 @@
+*{
+
+	margin: 0;
+	padding: 0;
+
+}
+
+
+/*Classes= artigo,eu, familia */
+
+
+
+.artigo{
+margin: auto;
+background:rgb(148, 145, 136, 0.3) ;
+text-align: center;
+width: 900px;
+
+}
+
+.artigo .eu h1{
+
+padding-top: 20px;
+margin: 10px auto;
+color: rgb(166, 18, 43);
+text-decoration: underline wavy;
+}
+
+.artigo .eu legend{
+	margin-bottom: 10px;
+	font-style: italic;
+	
+}
+
+.artigo .eu img{
+
+	width: 250px;
+	height: 350px;
+	border: 1px solid black;
+	border-radius: 100px 100px 20px 100px;
+}
+
+.artigo .eu p{
+	
+	font-family: calibri;
+	line-height: 20px;
+	margin: 10px auto;
+
+}
+
+	.artigo .eu .familia h2{
+
+		margin-bottom: 10px;
+
+	}
+
+	.artigo .eu .familia img{
+
+		width: 500px;
+		border-radius: 100px 100px 20px 100px;
+	}
+
+	.artigo .eu .familia legend{
+
+		font-size: 20px;
+		padding-bottom:20px ;
+
+	}
